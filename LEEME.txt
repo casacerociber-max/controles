@@ -1,0 +1,10 @@
+CASA CERO - BUSCADOR DE CONTROLES
+
+1. Descomprimí el ZIP.
+2. Abrí BUSCADOR.html en Chrome o Edge.
+3. Escribí el código (ejemplo AR-869).
+4. Tocá una imagen para ampliarla.
+
+Funciona sin conexión a Internet para búsquedas escritas. El dictado de voz depende del navegador y puede requerir conexión.
+
+Los recortes se asociaron automáticamente con los códigos impresos en el PDF. Conviene revisar las imágenes antes de usarlo como catálogo definitivo.
